@@ -4,7 +4,7 @@
 
 ## Introduction
 
-We have designed a 384 SNP Illumina assay that can be used as a "universal" genotyping panel for segregating populations and fingerprinting. This assay is not perfect but should be good enough for this purpose. We have tested it in three different F2 populations and we were able to call on the order of 314-334 SNPs. The overlap in non-working SNPs between populations was quite small, suggesting that failures are either random or due to different interfering SNPs in different crosses. A summary of these data can be found [here](SNPperf.pdf). We observed 40-50 % SNPs segregating which should be enough for basic linkage mapping. A list of the 384 SNPs can be found [here](384_snps_list.csv).
+We have designed a 384 SNP Illumina assay that can be used as a "universal" genotyping panel for segregating populations and fingerprinting. This assay is not perfect but should be good enough for this purpose. We have tested it in three different F2 populations and we were able to call on the order of 314-334 SNPs. The overlap in non-working SNPs between populations was quite small, suggesting that failures are either random or due to different interfering SNPs in different crosses. A summary of these data can be found [here](SNPperf.pdf). We observed 40-50 % SNPs segregating which should be enough for basic linkage mapping. A list of the 384 SNPs can be found [here](384_SNPs_list.csv).
 
 ## How does it work?
 
